@@ -25,7 +25,7 @@ This project tackles a real-world challenge from Santander, where all data is an
 
 ## ⚙️ Workflow
 
-![Workflow](outputs/visuals/workflow.png)
+![Workflow](outputs/workflow.png)
 
 ---
 
@@ -57,7 +57,7 @@ Instead of relying on domain knowledge (not available), we extracted **statistic
 
 ## 📈 Results
 
-![Model Performance](outputs/visuals/model_performance.png)
+![Model Performance](outputs/model_performance.png)
 
 | Model               | ROC-AUC |
 |--------------------|--------|
@@ -68,13 +68,13 @@ Instead of relying on domain knowledge (not available), we extracted **statistic
 
 ## 📉 ROC Curve
 
-![ROC Curve](outputs/visuals/roc_curve.png)
+![ROC Curve](outputs/roc_curve.png)
 
 ---
 
 ## 🔬 Feature Importance
 
-![Feature Importance](outputs/visuals/feature_importance.png)
+![Feature Importance](outputs/feature_importance.png)
 
 ---
 
