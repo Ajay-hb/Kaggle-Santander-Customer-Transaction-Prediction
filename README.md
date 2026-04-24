@@ -1,27 +1,43 @@
-# 💳 Santander Customer Transaction Prediction
+# 💳 Santander Customer Transaction Prediction (Kaggle Competition)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
-![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
-![Status](https://img.shields.io/badge/Project-Production%20Ready-brightgreen)
+![Machine Learning](https://img.shields.io/badge/ML-Scikit--Learn-orange)
+![Kaggle](https://img.shields.io/badge/Kaggle-Competition-20BEFF)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
-## 🚀 Project Story
+## 🏆 Kaggle Competition
 
-Can we predict customer transactions **without knowing what the features mean?**
+This project is based on the Kaggle competition:
 
-This project tackles a real-world challenge from Santander, where all data is anonymized — making feature interpretation impossible and forcing the model to rely purely on **patterns and statistical learning**.
+👉 **Santander Customer Transaction Prediction**  
+🔗 https://www.kaggle.com/competitions/santander-customer-transaction-prediction
+
+---
+
+## 📌 Overview
+
+The goal of this competition is to predict whether a customer will make a specific transaction based on **anonymized numerical features**.
+
+Unlike traditional datasets, feature meanings are hidden — making this a **pure machine learning problem focused on pattern recognition**.
 
 ---
 
-## 🧠 Key Highlights
+## 🎯 Objective
 
-✔️ Built a robust ML pipeline from scratch  
-✔️ Engineered statistical row-level features  
-✔️ Tackled anonymized + high-dimensional data  
-✔️ Achieved strong ROC-AUC performance  
+- Predict the probability of a customer making a transaction  
+- Build a high-performing classification model  
+- Optimize performance based on **ROC-AUC score**
 
 ---
+
+## 📊 Dataset Information
+
+- 200+ anonymized features (`var_0` to `var_199`)
+- Binary target variable (`target`)
+- No missing values
+- Highly balanced dataset
 
 ## ⚙️ Workflow
 
