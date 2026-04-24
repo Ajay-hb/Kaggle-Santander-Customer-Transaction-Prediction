@@ -92,17 +92,29 @@ Instead of relying on domain knowledge (not available), we extracted **statistic
 
 ## 📂 Project Structure
 Santander-Customer-Transaction-Prediction/
+
 │
+
 ├── data/
+
 ├── notebooks/
+
 ├── src/
+
 ├── outputs/
+
 │ └── visuals/
+
 │ ├── workflow.png
+
 │ ├── model_performance.png
+
 │ ├── roc_curve.png
+
 │ └── feature_importance.png
+
 ├── README.md
+
 └── requirements.txt
 
 ---
